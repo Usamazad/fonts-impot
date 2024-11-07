@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Give+You+Glory&family=Gochi+Hand&family=Kode+Mono:wght@400..700&family=Playwrite+PE:wght@100..400&family=Rubik+Microbe&family=Rubik+Wet+Paint&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Give+You+Glory&family=Gochi+Hand&family=Jacques+Francois+Shadow&family=Kode+Mono:wght@400..700&family=Playwrite+PE:wght@100..400&family=Rubik+Microbe&family=Rubik+Wet+Paint&display=swap');
+
+
+body{
+    background-color: rgb(158, 153, 138);
+   
+}
+
+
+
+h1{
+    text-align: center;
+    background-color:rgb(92, 71, 51);
+
+    font-family: "Jacques Francois Shadow", serif;
+  
+}
+
+h3{
+    text-align: right;
+    background-color: rgb(92, 71, 51);
+  text-decoration: underline;
+  font-family: "Give You Glory", cursive;
+} 
+h4{
+    font-family: "Jacques Francois Shadow", serif;
+}
+
+ul{
+    text-decoration: line-through;
+    text-transform: capitalize;
+    font-family: "Playwrite PE", cursive;
+}
+
